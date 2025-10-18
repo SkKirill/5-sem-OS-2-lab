@@ -1,0 +1,32 @@
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.exe
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\DELL\Desktop\5 семестр\Operating System\Labs\2Лаба\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.exe
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.deps.json
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.dll
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\ref\Lab2.dll
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\bin\Debug\net5.0\Lab2.pdb
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.dll
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\ref\Lab2.dll
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.pdb
+D:\ПапкаКирилла\ВУЗ\5_Sem\Operating_System\2 Лаба\Моя\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
